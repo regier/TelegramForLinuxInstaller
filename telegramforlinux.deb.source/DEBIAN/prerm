@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# The purpouse of this script is to run the Telegram For Linux Remover, nothing else.
+# Following KISS.
+
+# Telegram will be/was download here
+DownloadDir="/dev/shm/Telegram"
+# From here
+DownloadURL="https://telegram.org/dl/desktop/linux"
+# Named as
+TelegramCompressed="Telegram.tar.xz"
+# DownloadURL + TelegramCompressed = Dest!
+Dest="$DownloadDir/$TelegramCompressed"
+# Instalation Directory
+InstallDir="/opt"
+
+echo "==== Running TelegramForLinux Remover ===="
+sh /usr/local/bin/TelegramForLinuxRemover.sh
+

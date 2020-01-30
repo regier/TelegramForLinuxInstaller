@@ -1,0 +1,6 @@
+c5505034ee8cf67507c5af46a40cf3ac  usr/local/bin/TelegramForLinuxRemover.sh
+c563825e7062fe16580794c993dc6dcb  usr/local/bin/TelegramForLinuxInstaller.sh
+4cce0602fa66ea50d13626bafa486245  usr/local/lib/TelegramForLinuxInstaller/Download_Telegram.sh
+0c43dab3bf71ce60ab8e08e935d2a6da  usr/local/lib/TelegramForLinuxInstaller/Extract_Telegram.sh
+e762b295e425a4b897f962774cfc897f  usr/local/lib/TelegramForLinuxInstaller/Set-Up_Telegram.sh
+

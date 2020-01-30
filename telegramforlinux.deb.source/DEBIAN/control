@@ -1,0 +1,11 @@
+Package: telegramforlinuxinstaller
+Version: 0.0.3+regier
+Architecture: amd64
+Essential: no
+Section: web
+Priority: optional
+Homepage: https://regier.github.io/TelegramForLinuxInstaller/
+Depends: xserver-xorg, wget
+Maintainer: Regier Kunkel <regier.kunkel@gmail.com>
+Installed-Size: 97000
+Description: Installer for Telegram For Linux.
